@@ -1,10 +1,10 @@
-# Steps to Start Practice Course with PathNex
+# Steps to Start Practice Course with PANKAJBHATRA
 
 ## ✅ PART 1 — Create ONE GitHub Repository
 # 1. Go to [github.com](https://github.com)
 # 2. Login
 # 3. Click `+` (top right) → New repository
-# 4. Repository name: `Batch__pankaj_Pathnex` (e.g., `june2026_pankaj_Pathnex`)
+# 4. Repository name: `Batch__pankaj' (e.g., `june2026_pankaj`)
 # 5. Select **Public**
 # 6. **DO NOT** add README (optional)
 # 7. Click **Create repository**
@@ -19,8 +19,8 @@ Open your terminal (or Git Bash), then follow:
 **Step 1 — Create project folder**
 
 
-mkdir Batch_Name_Pathnex
-cd Batch_Name_Pathnex
+mkdir Batch_Name
+cd Batch_Name
 
 Step 2 — Create two folders
 mkdir timings
@@ -36,7 +36,7 @@ vim Coding\ Practice/Day01-014-june-2026.txt
 # Add your content and save
 
 # Folder structure:
-# Batch_Name_Pathnex/
+# Batch_pankaj/
  ├── timings/
  │     └── Day01-14-june-2026.txt
  └── coding practice/
@@ -68,7 +68,7 @@ git init
 
 # Step 2 — Add the remote GitHub repo
 # Copy your GitHub repo URL (HTTPS) and run:
-git remote add origin https://github.com/your-username/Batch_Name_Pathnex.git
+git remote add origin https://github.com/your-username/Batch_Name.git
 
 # Step 3 — Add all files
 git add .
@@ -95,7 +95,7 @@ git push
 # Summary
 # You will have:
 # One GitHub repo
-Batch_Name_Pathnex/
+Batch_Name_Pankaj/
    ├── timings/
    │     ├── Day01-14-june-2026.txt
    │     ├── Day02-15-june-2026.txt
