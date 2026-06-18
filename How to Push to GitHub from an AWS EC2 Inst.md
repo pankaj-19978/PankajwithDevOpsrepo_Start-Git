@@ -118,4 +118,4 @@
 
 ### git add . git commit -m "Added hello.txt from EC2"
 
-🟩 STEP 6 — Push to GitHub git push 🎉 Your code is now pushed from EC2 to GitHub!
+## 🔹 STEP 6 — Push to GitHub git push 🎉 Your code is now pushed from EC2 to GitHub!
